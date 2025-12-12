@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Kothakota Asha!
 
-<!--
-**Kothakota-Asha/Kothakota-Asha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟  Software Developer | Frontend Enthusiast |*  
+💻 Strong in *Frontend Development, 
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about building clean, responsive, and user-friendly web applications.  
+Currently improving my skills in *React, **Java, and **Full-Stack Development*.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🌐 Frontend
+- *HTML5*
+- *CSS3*
+- *JavaScript (ES6)*
+- *React.js*
+- *Redux*
+- *Responsive Web Design*
+
+### ☕ Backend / Core Programming
+- *Java*
+- *OOPs Concepts*
+- *Basic Data Structures*
+
+### 🧰 Tools & IDEs
+- *VS Code*
+- *Eclipse*
+- *Git & GitHub*
+
+---
+
+## 📁 My Projects
+
+### 🔹 *Portfolio Website*
+A responsive personal portfolio built using *HTML, CSS, JavaScript*.  
+Showcases…
